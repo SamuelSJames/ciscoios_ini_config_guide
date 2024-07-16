@@ -1,4 +1,4 @@
-# Cisco IOS Switch Initial Configuration Guide
+# CiscoIOS Switch Initial Config Guide
 
 This guide covers the initial configuration steps for a single Cisco IOS switch. Follow the steps below to set up your switch with essential network functionality, security, and management features.
 
